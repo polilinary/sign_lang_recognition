@@ -22,7 +22,8 @@ russian_sign_language_recognition/
 ├── README.md             # Описание проекта  
 ├── requirements.txt      # Зависимости проекта  
 ├── train.py              # Скрипт для тренировки модели  
-├── inference.py          # Запуск модели в реальном времени  
+├── inference.py          # Запуск модели в реальном времени
+├── dataload.py           # Скрипт для скачивания датасета из kaggle
 ├── dataset/              # Папка для данных  
 ├── models/               # Весы предобученной модели  
 
